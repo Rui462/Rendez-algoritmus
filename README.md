@@ -1,1 +1,2 @@
-# Rendez-algoritmus
+# Rendező Algoritmus
+by: Tátrai Péter
