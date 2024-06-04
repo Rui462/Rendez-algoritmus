@@ -1,0 +1,17 @@
+Milka_Epres	0
+Milka_Tejes	0
+Milka_Oreos	0
+Kakaos_Csiga	0
+Meggyes_Taska	0
+Barackos_Taska	0
+Sonkas_Szendvics	1
+Szalamis_Szendvics	1
+Mentes_Viz	2
+Szensavas_Viz	2
+Cappy_multi	2
+Fanta	2
+CocaCola	2
+Alma	3
+Narancs	3
+Banan	3
+Mandarin	3
